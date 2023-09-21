@@ -3,4 +3,4 @@
 # xUnit-exercise
 Lexicon - .NET course - Week 2 optional assignment
 
-
+Exercises to practice unit test with xUnit
